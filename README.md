@@ -1,1 +1,1 @@
-This repo demonstrates the use of React Routers.
+Using React routers to build a shop store front-end.
